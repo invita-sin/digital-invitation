@@ -17,9 +17,9 @@
     "description": "Template klasik dengan warna emas dan ivory. Memberikan kesan mewah dan timeless pada undangan pernikahan Anda.",
     "category": "Elegant",
     "thumbnail": "/images/thumbnails/elegant.jpg",
-    "demo": "#",
-    "repository": "#",
-    "status": "coming-soon"
+    "demo": "https://invita-sin.github.io/template-elegant",
+    "repository": "https://github.com/invita-sin/template-elegant",
+    "status": "ready"
   },
   {
     "id": "minimalist",
